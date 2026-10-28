@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/greydanus/hamiltonian-nn",
+  "commit": "bcc362235dc623ffe48f22ccc22417e02e9803b4",
+  "files": [
+    {
+      "path": "analyze-spring.ipynb",
+      "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/bcc362235dc623ffe48f22ccc22417e02e9803b4/analyze-spring.ipynb",
+      "sha256": "493beb12dbed5ec075583c51cdadbaf18fe35bb19562b881c52923b359f43230"
+    },
+    {
+      "path": "experiment-spring/data.py",
+      "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/bcc362235dc623ffe48f22ccc22417e02e9803b4/experiment-spring/data.py",
+      "sha256": "8a52ed98c082d9df0c1dd20ecf45596523c5df0ec11994103e8ee3369cef8883"
+    },
+    {
+      "path": "experiment-spring/train.py",
+      "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/bcc362235dc623ffe48f22ccc22417e02e9803b4/experiment-spring/train.py",
+      "sha256": "15bc901f3c5512b7a97bc471bd0f345bcb56526517da28c2478c6f9f80896dfe"
+    },
+    {
+      "path": "hnn.py",
+      "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/bcc362235dc623ffe48f22ccc22417e02e9803b4/hnn.py",
+      "sha256": "228adc3976887cdb2e1a4d3358d0bbecd0d968f2ed2a041d11cc3391ba68c76d"
+    },
+    {
+      "path": "nn_models.py",
+      "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/bcc362235dc623ffe48f22ccc22417e02e9803b4/nn_models.py",
+      "sha256": "2914511b23d06e82a38afd55e8366201ffd49801dd7620bddbef22ba5317acc0"
+    },
+    {
+      "path": "utils.py",
+      "url": "https://raw.githubusercontent.com/greydanus/hamiltonian-nn/bcc362235dc623ffe48f22ccc22417e02e9803b4/utils.py",
+      "sha256": "537227df311e8b3b3999400ef38b6fc9bacba2c722f4e369b801850797b5fcf6"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "training": [
+    {
+      "model": "nn",
+      "updates": 2001,
+      "parameters": 41200,
+      "training_seconds": 5.697456083027646,
+      "train_mse": 0.037103816866874695,
+      "train_error_bar": 0.0019137040860291003,
+      "test_mse": 0.036585137248039246,
+      "test_error_bar": 0.0018561054578640314
+    },
+    {
+      "model": "hnn",
+      "updates": 2001,
+      "parameters": 41200,
+      "training_seconds": 7.4265503329224885,
+      "train_mse": 0.036947138607501984,
+      "train_error_bar": 0.0019133653753911663,
+      "test_mse": 0.03595256060361862,
+      "test_error_bar": 0.001834007785405503
+    }
+  ],
+  "evaluation": {
+    "notebook_topdown_mutating": {
+      "nn": {
+        "energy_mse": 0.16636448936210535,
+        "error_bar": 0.02037616218173174
+      },
+      "hnn": {
+        "energy_mse": 0.00045284531634010706,
+        "error_bar": 7.166462263239507e-05
+      }
+    },
+    "isolated_calls_diagnostic": {
+      "nn": {
+        "energy_mse": 0.06476957452828791,
+        "error_bar": 0.015801667024083782
+      },
+      "hnn": {
+        "energy_mse": 0.0004525978813600321,
+        "error_bar": 7.161696065635626e-05
+      }
+    },
+    "evaluation_seconds": 5.810056749964133
+  },
+  "provenance": {
+    "source": "faithful_reproduction official seed0, 2001 updates",
+    "scope": "official harmonic oscillator only; aggregate metrics; no individual trajectories or samples",
+    "evaluation": "author notebook source-order single execution, time correction and in-place mutation retained"
+  }
+}

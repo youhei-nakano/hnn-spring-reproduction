@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.mplconfig/
+runs/
+*.npz
+*.pt
+*.tar
+*.zip
+.DS_Store
+.env
+.env.*

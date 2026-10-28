@@ -1,0 +1,5 @@
+{
+  "hamiltonian_gradient": "passed",
+  "solve_ivp_reference_max_abs": 1.6961218022304436e-06,
+  "reference_only_not_data_generation": true
+}

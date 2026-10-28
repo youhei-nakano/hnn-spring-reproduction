@@ -1,0 +1,5 @@
+# Observed successful environment; installation was not performed in this task.
+torch==2.14.0
+numpy==2.3.5
+scipy==1.18.1
+matplotlib==3.11.1

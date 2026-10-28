@@ -1,0 +1,16 @@
+Hamiltonian Neural Networks (2019) spring reproduction
+
+Independent audited port referring to Hamiltonian Neural Networks by
+Sam Greydanus, Misko Dzamba, and Jason Yosinski.
+Upstream: https://github.com/greydanus/hamiltonian-nn
+Commit: bcc362235dc623ffe48f22ccc22417e02e9803b4
+Upstream license: Apache License 2.0.
+
+The runner has been independently reorganized and modified for portable paths,
+explicit notebook mutation tracks, recorded data, metrics, plots and validation.
+Fetched upstream source files, paper HTML and author figures are not bundled.
+This is an independent reproduction, not an official author release.
+
+This limited publication includes only the official spring track, source,
+documentation, generated figures and aggregate metrics. Raw synthetic arrays,
+checkpoints, paper-text convention supplements and later studies are excluded.

@@ -1,0 +1,12 @@
+{
+  "syntax": "passed",
+  "fresh_generated_dataset_equals_original": true,
+  "independent_of_private_data_for_execution": true,
+  "small_consistency_tests": "passed",
+  "default_track": "official only",
+  "checkpoints_and_arrays_published": false,
+  "nn_initialization_and_checkpoint_evaluation": "passed",
+  "hnn_initialization_and_checkpoint_evaluation": "passed",
+  "author_illustrative_rollout_exact_match": "passed",
+  "aggregate_report_command": "passed"
+}
